@@ -1,4 +1,7 @@
 var data = [{
+    /*Use a date form in your HTML document and write JavaScript code that will listen for events 
+    and search through the date/time column to find rows that match user input.*/
+    
     datetime: "1/1/2010",
     city: "benton",
     state: "ar",
@@ -998,3 +1001,5 @@ var data = [{
     comments: "Bright orange object&#44 rapid speed and direction changes .."
   }
 ];
+
+// array help https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array

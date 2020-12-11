@@ -1,20 +1,17 @@
-// from data.js
-let tableData = data({
-    //example of data pairing from data.js
-    datetime: "1/13/2010",
-    city: "gulf breeze",
-    state: "fl",
-    country: "us",
-    shape: "unknown",
-    durationMinutes: "4 minutes",
-    comments: "Bright orange object&#44 rapid speed and direction changes .."
 
+let tableData = data;
 
+/*Use a date form in your HTML document and write JavaScript code that will listen for events 
+    and search through the date/time column to find rows that match user input.*/
 
 
 });
-joinedArray = tableData.join(", ");
+//joinedArray = tableData.join(", ");
 // YOUR CODE HERE!
 
 //create element statement from w3 for HTML DOM
-let x = document.createElement("TH");
+//let x = document.createElement("TH");
+
+// function LoadScript() {
+//     let tableData = document.createElement("data.js");
+//     script.src = url;
