@@ -7,25 +7,22 @@ and search through the date/time column to find rows that match user input.*/
 var tbody = d3.select("tbody");
 let tableData = data;
 
+console.log(data);
 //only prints 
-function printName(datetime) {
-    console.log(datetime);
-    }
-    for (var i = 0; i < data.length; i++) {
-        printName(datetime[i]);
+
 
     } 
-//stackoverflow alternative    
-    let tbodyRef = document.getElementById('ufo-table').getElementsByTagName('tbody')[0];
-    // Insert a row at the end of table
-    let newRow = tbodyRef.insertRow();
+// //stackoverflow alternative    
+//     let tbodyRef = document.getElementById('ufo-table').getElementsByTagName('tbody')[0];
+//     // Insert a row at the end of table
+//     let newRow = tbodyRef.insertRow();
 
-    // Insert a cell at the end of the row
-    let newCell = newRow.insertCell();
+//     // Insert a cell at the end of the row
+//     let newCell = newRow.insertCell();
 
-    // Append a text node to the cell
-    let newText = document.createTextNode('new row');
-    newCell.appendChild(newText);
+//     // Append a text node to the cell
+//     let newText = document.createTextNode('new row');
+//     newCell.appendChild(newText);
     
 
 
