@@ -22,49 +22,29 @@ data.forEach(obj => {
 let date_filter = data.map(obj => obj.datetime);
 console.log(date_filter)
 //repeat above line for each column name in data.js
-
-
-
-
-
+let date_filter = data.map(obj => obj.datetime);
+let city_filter = data.map(obj => obj.city);
+let state_filter = data.map(obj => obj.state);
+let shape_filter = data.map(obj => obj.shape);
+let duration_filter = data.map(obj => obj.durationMinutes);
+let comment_filter = data.map(obj => obj.comments);
 // let button = d3.select("#filter-btn");
 
 //3. // Select the form
 let date_form = d3.select("#datetime");
+let city_form = d3.select("#city");
+let state_form = d3.select("#state");
+let shape_form = d3.select("#datetime");
+let duration_form = d3.select("#datetime");
+let comment_form = d3.select("#datetime");
 
 //4. listen for events and search through the date/time
 //activities 4-5 on Day 3
-
+// Input fields can trigger a change event when new text is entered.
+inputField.on("change", function() {
+  var newText = d3.event.target.value;
+  console.log(newText);
+});
 // repeat for each column
 // // Create event handlers for clicking the button or pressing the enter key
-// button.on("click", runEnter);
-// form.on("submit",runEnter);
-
-// // Create the function to run for both events
-// function runEnter() {
-//     var inputElement = d3.select("#datetime");
-
-//     // Get the value property of the input element
-//     var inputValue = inputElement.property("value");
-
-// }
-
-
-
-//   // Prevent the page from refreshing
-//   //d3.event.preventDefault();
-
-//   // Select the input element and get the raw HTML node
- 
-
-//   // Print the value to the console
-//   console.log(runEnter);
-
-// // Clear the value from the text box
-// //d3.event.target.value = "";
-
-
-//     } 
-    
-// // refer to Day 3, solved for exercise 9
 
