@@ -1004,5 +1004,5 @@ var data = [{
     comments: "Bright orange object&#44 rapid speed and direction changes .."
   }
 ];
-console.log(Object.values(data));
+//console.log(Object.values(data));
 // array help https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
