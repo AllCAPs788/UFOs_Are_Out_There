@@ -19,9 +19,14 @@ data.forEach(obj => {
 });
 
 let button = d3.select("#filter-btn")
-let form = d3.select("#datetime")
+let form = d3.select("#new-id")
 button.on("click", ufo_enter);
-//form.on("change",ufo_enter);
+form.on("submit",echo);
+function echo() {
+
+console.log("echo");
+
+};
 
 function ufo_enter() {
   d3.event.preventDefault();
