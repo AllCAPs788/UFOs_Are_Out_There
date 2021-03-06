@@ -19,6 +19,7 @@ We then compiled all this data into a simple webpage for viewers to navigate. Ju
 
 Aliens-R-Real is an organization devoted to ensuring the protection of this planet through vigilance for extraterrestrial lifeforms. We seek to dispell the myth of cute, cuddly aliens who want to be our friends. It will take much in the way of trust before we can open our species to the potential threat of alien invasion. 
 
+![greenTube]
 ## Disclaimer
 
 Aliens-R-Real has no legal offiliation with the Search for Extraterrestrial Intelligence (SETI). All information provided has been approved by the involved parties and is subject to state and local laws. Use of our website is purely for entertainment and educational purposes only. Any attempt to sell this information to third parties or distribute for personal enterprise will be subject to litigation.
@@ -28,5 +29,8 @@ Any attempt to contact parties listed in our data will be considered a breach of
 By using our website, you are agreeing that Aliens-R-Real bears no liability in the event of emotional trauma (or events related therein). 
 
 ## Contact Us
-E-mail us at aliens-r-real@saucers.org or reach us at our Facebook page or on Twitter: @aliens-r-real. 
+E-mail us at aliens-r-real@saucers.org or reach us at our Facebook page or on Twitter: @aliens-r-real. If you enjoy our content, please consider contributing to us on PayPal or Patreon. 
 
+Keep up the search, explorers! The truth shall be revealed. 
+
+![redEyes]
