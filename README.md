@@ -34,3 +34,9 @@ E-mail us at aliens-r-real@saucers.org or reach us at our Facebook page or on Tw
 Keep up the search, explorers! The truth shall be revealed. 
 
 ![redEyes](https://raw.githubusercontent.com/AllCAPs788/UFOs_Are_Out_There/main/static/images/red_alien_skull.jpg)
+
+## Tools and Resources: 
+
+* Javascript
+* Html
+* CSS
